@@ -1,0 +1,16 @@
+{
+  "name": "practice library",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://agasthian.github.io/aospractice",
+  "dependencies": {
+    "gh-pages": "^2.1.1"
+  }
+}
